@@ -1,0 +1,23 @@
+@media (min-width:300px) and (max-width:475px) {
+    
+    .box{
+        width: 100%;
+        height: 100vh;
+    }
+    h1 {
+        font-size: 30px;
+       
+    }
+    h2 {
+        font-size: 20px;
+       
+    }
+    .box i {
+        font-size: 25px;
+     
+    }
+    button{
+        width: 80%;
+    }
+
+}
